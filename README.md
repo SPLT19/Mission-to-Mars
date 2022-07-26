@@ -21,24 +21,30 @@ Scrapping was successfully implemented and presented in a website featuring Mars
 The different components were: 
 
 - Scrape New Data (button)
+![button](Resources/Button.png) 
 
 - Latest Mars News (modified by each scrapping)
+![Latest News](Resources/Latestnews.png) 
 
 - Featured Mars Image (picture)
+![Featured Mars Image](Resources/featuredmars image.png)
 
 - Mars Facts (table)
+![Facts](Resources/MarsFacts.png)
 
 - Mars hemispheres (pictures) 
-
+![Hemispheres](Resources/MarsHemispheres.png)
 
 ### Results 1 : BeautifulSoup and Splinter scrape:
 - List of Hemispheres image URL's 
-
+![URLs](Resources/ImgURL.png) 
 
 
 ### Results 2: Webpage collected information with Mongo DB: 
 - Hemispheres pictures retrieval 
+![HemispheresPics](Resources/mission5.png) 
 
 
 ### Results 3: Mobile-responsive, Bootstrap components
-As seen in the following pictures, the webpage was formatted making it visually attractive as well as responsive for mobile tablet and desktop formatting, using Bootstrap components as seen in [index](templates\index.html)
+As seen in the following pictures, the webpage was formatted making it visually attractive as well as responsive for mobile tablet and desktop formatting, using Bootstrap components as seen in [index](templates/index.html)
+
